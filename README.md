@@ -18,3 +18,19 @@ This project analyzes the Brazilian e-commerce dataset (Olist) to derive insight
 - Pandas
 - Matplotlib
 - Seaborn
+
+---
+
+## 📈 Visualizations
+
+### Revenue Trend
+![Revenue](images/revenue_trend.png)
+
+### Profitability
+![Profit](images/profit_trend.png)
+
+### Customer Churn
+![Churn](images/churn_segments.png)
+
+### Forecasting
+![Forecast](images/forecast_trend.png)
